@@ -164,6 +164,7 @@ Post
 
 .posts li .logo img {
   width: 60%;
+  border-radius: 50%;
 }
 
 .posts li .name_body {
