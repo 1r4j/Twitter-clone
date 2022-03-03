@@ -191,7 +191,8 @@ button.like-button {
   /* width: 8px; */
 }
 img.post-border {
-  width: 66%;
+  width: auto;
+  border-radius: 10px;
   height: 33vh;
 }
 
